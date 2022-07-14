@@ -1,2 +1,2 @@
 # joeziyo.github.io
-bruhh i dont even know what im doing
+ i have no idea what im doing
