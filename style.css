@@ -1,3 +1,10 @@
+body {
+background-image: url("bg.png");
+background-size: 100px 60px;
+background-repeat: repeat-xy;
+background-color: #314D77;
+}
+
 .center {
   display: block;
   margin-left: auto;
@@ -6,33 +13,10 @@
 }
 
 h1 {text-align: center;
+	color: #fff;
 	font-size: 40px;
 }
 
 p {text-align: center;
-	color: #ff0;
-	font-size: 30px;}
-	
-h5 {text-align: center;
-	color: #f0f;
-	font-size: 15px;
-}
-
-body {
-background-image: url("bg.png");
-background-size: 100px 60px;
-background-repeat: repeat-xy;
-background-color: #314D77;
-}
-
-.content {
-    width: 780px;
-    border: #fff 20px solid;
-    margin: auto;
-    text-align: center;
-}
-
-marquee {
-	color: #fff;
-	font-weight: bold;
-}
+	font-size: 30px;
+	}
